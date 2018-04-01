@@ -1,0 +1,61 @@
+body{
+	background-image:url("../images/backgroundimage.jpg");
+	
+}
+
+.container{
+	
+	margin: auto;
+	width: 60%;
+}
+	
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+    font-size: 30pt;
+    color: fuchsia
+}
+
+p {
+	color: fuchsia;
+	font-size: 18pt;
+}
+.header {
+	background-color:navy;
+	margin-left: 25%;
+	width: 25%;
+	white-space: nowrap;
+	display: inline;	
+}
+
+.instructions {
+	background-color: navy;
+	color: fuchsia;
+	margin: auto;
+}
+
+.numberToMatch, .winsAndLosses{
+	float: left;
+	width: 40%;
+	height: 75px;
+	background-color: navy;
+	color: fuchsia;
+
+}
+
+.crystal {
+	display: inline;
+	float: left;
+	
+	}
+
+.userTotal{
+	width: 60%;
+	height: 60px;
+	background-color:navy;
+	color: fuchsia;
+}
+
+
